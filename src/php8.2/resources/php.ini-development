@@ -1,0 +1,2 @@
+; Only differences to original php.ini-development
+date.timezone = "Europe/Warsaw"

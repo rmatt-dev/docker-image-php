@@ -1,0 +1,4 @@
+; Only differences to original php.ini-production
+date.timezone = "Europe/Warsaw"
+expose_php = Off
+disable_functions = shell_exec,exec,passthru,system,popen,proc_close,proc_get_status,proc_nice,proc_open,proc_terminate,phpinfo
